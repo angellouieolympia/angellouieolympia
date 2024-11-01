@@ -1,6 +1,6 @@
 - <h1>👋 Hi, I’m Angel Louie Olympia</h1>
-- 👀 I’m interested in playing badminton and sometimes I'm playing online games
-- 🌱 I’m currently learning SQL Database
+- <h2>👀 I’m interested in playing badminton and sometimes I'm playing online games</h2>
+- <h3>🌱 I’m currently learning SQL Database</h3>
 - 💞️ I’m looking to collaborate on with my classmates as well
 - 📫 How to reach me: Facebook: Angel Louie Olympia
 - 😄 Pronouns: he, him, his
