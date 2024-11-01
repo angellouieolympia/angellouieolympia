@@ -1,4 +1,4 @@
-- <br>👋 Hi, I’m Angel Louie Olympia</br>
+- <h1>👋 Hi, I’m Angel Louie Olympia</h1>
 - 👀 I’m interested in playing badminton and sometimes I'm playing online games
 - 🌱 I’m currently learning SQL Database
 - 💞️ I’m looking to collaborate on with my classmates as well
@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I'm an ambivert person but sometimes when I'm alone, I turn into an introvert person.
 
   Certificate Link:
-  <a href="https://courses.cognitiveclass.ai/certificates/867501e3a62244e5920d28bf78a92f73"> Click Here to Visit </a>
+  <a href="https://courses.cognitiveclass.ai/certificates/867501e3a62244e5920d28bf78a92f73"> My Certificate </a>
 
 <!---
 angellouieolympia/angellouieolympia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
