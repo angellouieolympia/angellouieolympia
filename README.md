@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I'm an ambivert person but sometimes when I'm alone, I turn into an introvert person.
 
   Certificate Link:
-  <h1><a href="https://courses.cognitiveclass.ai/certificates/867501e3a62244e5920d28bf78a92f73"> My Certificate </a></h1>
+  <h1><a href="https://courses.cognitiveclass.ai/certificates/867501e3a62244e5920d28bf78a92f73">  SQL and Relational Databases 101 </a></h1>
 
 <!---
 angellouieolympia/angellouieolympia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
