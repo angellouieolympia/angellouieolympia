@@ -6,12 +6,10 @@
 - 😄 Pronouns: he, him, his
 - ⚡ Fun fact: I'm an ambivert person but sometimes when I'm alone, I turn into an introvert person.
 
-  <!DOCTYPE html>
-<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Simple Table</title>
+    <title> Simple Table </title>
     <style>
         table {
             width: 50%;
@@ -29,14 +27,13 @@
     </style>
 </head>
 <body>
-
-    <table>
+ <table>
         <tr>
-            <th>Column 1</th>
-            <th>Column 2</th>
+            <th> Information Management Activities and Certificates </th></th>
+            <th> Date Achieved </th></th>
         </tr>
         <tr>
-            <td>Row 1, Cell 1</td>
+            <td> Row 1, Cell 1 </td>
             <td>Row 1, Cell 2</td>
         </tr>
         <tr>
