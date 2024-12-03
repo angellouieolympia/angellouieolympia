@@ -25,15 +25,11 @@
         </tr>
         <tr>
             <td>Row 3, Cell 1</td>
-            <td>Row 3, Cell 2</td>
+            <td>December 2024/td>
         </tr>
         <tr>
             <td>Row 4, Cell 1</td>
-            <td>Row 4, Cell 2</td>
-        </tr>
-        <tr>
-            <td>Row 5, Cell 1</td>
-            <td>Row 5, Cell 2</td>
+            <td>December 2024</td>
         </tr>
     </table>
 
