@@ -25,7 +25,7 @@
         </tr>
         <tr>
             <td>Row 3, Cell 1</td>
-            <td>December 2024/td>
+            <td>December 2024 </td>
         </tr>
         <tr>
             <td>Row 4, Cell 1</td>
