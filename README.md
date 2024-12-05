@@ -24,8 +24,8 @@
             <td>November 27, 2024 </td>
         </tr>
         <tr>
-            <td>Row 3, Cell 1</td>
-            <td>December 2024 </td>
+            <td><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=6A1A39DD504C7F9FE53D9828EC3FB8D2B970988C2F1199126A3A3AEF00C5AB22&fbclid=IwY2xjawG-IqBleHRuA2FlbQIxMQABHaZcyVkuBmk55i7mAnFHIhm2IaeCDHZNa3kju1BOzkZLC7toZWrKNwzv3A_aem_8Z8mzQD8gH8dC3iP9rheGQ"> Oracle Cloud Infrastructure 2024 Data Certified Foundations Associate </a> </td>
+            <td>December 5, 2024 </td>
         </tr>
         <tr>
             <td>Row 4, Cell 1</td>
