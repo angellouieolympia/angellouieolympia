@@ -28,8 +28,8 @@
             <td>December 5, 2024 </td>
         </tr>
         <tr>
-            <td>Row 4, Cell 1</td>
-            <td>December 2024</td>
+            <td><a href = "https://catalog-education.oracle.com/ords/certview/sharebadge?id=0C0A3D3967F2766CFF40A43FCF040C1EB75515601E3A9CECABD775B37F92FC79&fbclid=IwY2xjawHCNFJleHRuA2FlbQIxMQABHQ63Rxsj8rszImiDQNUNFVKfUwXEXu50pDgTg0LJpLrF23GsCSkwCEQMGg_aem_v38TdCxF73B2oW93YZZ3IA"> Oracle Cloud Infrastructure 2024 Certified AI Foundations Associate </a></td>
+            <td>December 8, 2024</td>
         </tr>
     </table>
 
